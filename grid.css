@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main_page{
+width: 50%;
+margin: auto;
+align-items: center;
+justify-content: center;
+display: grid;
+height: 100vh;
+
+}
+.first_page{
+    background-color: rgb(5, 73, 73);
+    padding: 40px;
+    color: #fff;
+}
+.second_page{
+    background-color: rgb(240, 152, 20);
+    padding: 40px;
+    color: #fff;
+}
+.third_page{
+    background-color: rgb(94, 6, 86);
+    padding: 40px;
+    color: #fff;
+}
